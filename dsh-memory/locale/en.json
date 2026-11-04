@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "Local Memory",
+    "description": "Saves every task to a local SQLite memory with timestamps, recalls summaries first, and evicts by usage."
+  }
+}
